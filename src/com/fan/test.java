@@ -12,5 +12,6 @@ public class test {
         System.out.println("hello java v2");
         System.out.println("hello java v3");
         System.out.println("hello java v4");
+        System.out.println("测试推送到github");
     }
 }
